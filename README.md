@@ -6,7 +6,7 @@ I'm **multivariablecalculus**, a high school student passionate about programmin
 
 ## 🛠️ My Strongest Fields
 
-- **C++ / C Development**
+- **C/C++ Development**
 - **.NET Development**
 - **Python Development**
 
