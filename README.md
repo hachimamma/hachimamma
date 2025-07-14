@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Abhradeep Roy 👋</h1>
-<p align="center">A passionate AI developer, cybersec enthusiast, and prodigy from India</p>
+<h1 align="center">Hi, I'm Abhradeep Roy.</h1>
+<p align="center">A passionate Software Developer, Web Developer, Robotics and Cybersecurity enthusiast.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=multivariablecalculus&style=flat-square&color=blue" alt="Profile views" />
