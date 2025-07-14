@@ -7,20 +7,20 @@
 
 ---
 
-- 🔭 I’m currently working on **PasswdManager.**
-- 💡 My active repositories are at: [github.com/multivariablecalculus](https://github.com/multivariablecalculus?tab=repositories)
-- 💬 Ask me about Python, AI/ML, Hacking, or Linux internals
-- 📧 Contact me: **subhodisha2062@gmail.com**
+- I’m currently working on **PasswdManager.**
+- My active repositories are at: [github.com/multivariablecalculus](https://github.com/multivariablecalculus?tab=repositories)
+- Ask me about C/C++, Rust, Linux
+- Contact me: **subhodisha2062@gmail.com**
 
 ---
 
-## 🧠 Most Used Languages
+## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multivariablecalculus&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 Abhradeep's GitHub Stats
+## Abhradeep's GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=multivariablecalculus&show_icons=true&theme=tokyonight&hide=stars,contribs)
 
@@ -28,13 +28,10 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img alt="Twitter" title="Twitter" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" />
-  </a>
-  <a href="mailto:abhradeep.roy@example.com" target="_blank">
+  <a href="mailto:subhodisha2062@gmail.com" target="_blank">
     <img alt="Gmail" title="Gmail" height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" />
   </a>
   <a href="https://github.com/multivariablecalculus" target="_blank">
