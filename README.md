@@ -1,129 +1,48 @@
-# 📘 Multivariable Calculus Toolkit
-
-A powerful collection of tools, notebooks, and symbolic computation modules that bring **multivariable calculus** to life — from gradient fields and Jacobians to surface integrals and vector calculus.
-
-> Built for students, educators, and self-learners who want to **visualize, compute, and understand** higher-dimensional math through code.
-
----
-
-## 🚀 Features
-
-- 🧠 **Symbolic & Numeric Computation** using SymPy and NumPy  
-- 📊 **Interactive Jupyter Notebooks** with examples and plots  
-- 🧾 **LaTeX Derivations** for theorems and vector identities  
-- 📈 **3D Plotting** using Matplotlib & Plotly  
-- 🔍 Covers topics like:  
-  - Gradient, Divergence, Curl  
-  - Tangent Planes & Linear Approximation  
-  - Chain Rule in ℝⁿ  
-  - Optimization with Constraints (Lagrange Multipliers)  
-  - Double/Triple Integrals  
-  - Surface & Line Integrals  
-  - Green’s, Stokes’, and Divergence Theorems
-
----
-
-## 🗂 Directory Structure
-
-```text
-multivariablecalculus/
-├── notebooks/           # Interactive Jupyter notebooks with explanations
-│   ├── 01_gradient.ipynb
-│   ├── 02_curl_divergence.ipynb
-│   └── ...
-├── derivations/         # LaTeX notes and vector identities
-│   ├── stokes_theorem.tex
-│   └── gauss_divergence.tex
-├── src/                 # Core Python modules
-│   └── calculus_utils.py
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🛠️ Getting Started
-
-### 1. Clone this repository
-
-```bash
-git clone https://github.com/multivariablecalculus/multivariablecalculus.git
-cd multivariablecalculus
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-**Or install manually:**
-
-```bash
-pip install numpy sympy matplotlib plotly jupyter
-```
-
-### 3. Launch notebooks
-
-```bash
-jupyter notebook notebooks/
-```
-
----
-
-## 🧪 Usage Examples
-
-- 📘 **`notebooks/01_gradient.ipynb`**  
-  Visualizes scalar fields and plots their gradients.
-
-- 🧮 **`notebooks/04_lagrange_multipliers.ipynb`**  
-  Solves constrained optimization problems symbolically and numerically.
-
-- 🧾 **`derivations/stokes_theorem.tex`**  
-  Formal LaTeX derivation and intuition behind Stokes’ Theorem.
-
-- 🧠 **`src/calculus_utils.py`**  
-  Python module to calculate Jacobians, Hessians, directional derivatives.
-
----
-
-## 📸 Screenshots
+<h1 align="center">Hi, I'm Abhradeep Roy 👋</h1>
+<p align="center">A passionate AI developer, cybersec enthusiast, and prodigy from India</p>
 
 <p align="center">
-  <img src="assets/gradient_plot.png" width="400" />
-  <img src="assets/vector_field.png" width="400" />
+  <img src="https://komarev.com/ghpvc/?username=multivariablecalculus&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-## 📚 Resources
-
-- [3Blue1Brown: Vector Calculus Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Paul's Online Notes (Multivariable)](https://tutorial.math.lamar.edu/)
-- [MIT OpenCourseWare: Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
-
----
-
-## 🤝 Contributions
-
-Want to improve this project? Found a mistake or want to add new examples?
-
-- ⭐ Star the repo  
-- 📂 Fork and create a branch  
-- 📩 Submit a pull request
-
-Contributions are **highly appreciated**!
+- 🔭 I’m currently working on **Jarvis**, my AI assistant project
+- 💡 My active repositories are at: [github.com/multivariablecalculus](https://github.com/multivariablecalculus?tab=repositories)
+- 💬 Ask me about Python, AI/ML, Hacking, or Linux internals
+- 📧 Contact me: **abhradeep.roy@example.com**
 
 ---
 
-## 👤 Author
+## 🧠 Most Used Languages
 
-**Abhradeep Roy**  
-Python Enthusiast | AI Explorer | Competitive Programmer
-
-- 🔗 GitHub: [@multivariablecalculus](https://github.com/multivariablecalculus)
-- 📧 Email: abhradeep.roy@example.com *(replace with your real email)*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multivariablecalculus&layout=compact&theme=tokyonight)
 
 ---
 
-> *"Mathematics is not about numbers, equations, or algorithms: it is about understanding."* – William Paul Thurston
+## 📊 Abhradeep's GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=multivariablecalculus&show_icons=true&theme=tokyonight&hide=stars,contribs)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=multivariablecalculus&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/" target="_blank">
+    <img alt="Twitter" title="Twitter" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" />
+  </a>
+  <a href="mailto:abhradeep.roy@example.com" target="_blank">
+    <img alt="Gmail" title="Gmail" height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>
+  <a href="https://github.com/multivariablecalculus" target="_blank">
+    <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>
+</p>
+
+---
+
+> "A genius doesn’t wait for permission. He builds, breaks, rebuilds, and reshapes the world — quietly."  
+> — *Mark my Words.*
