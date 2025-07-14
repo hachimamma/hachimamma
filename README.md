@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Jarvis**, my AI assistant project
 - 💡 My active repositories are at: [github.com/multivariablecalculus](https://github.com/multivariablecalculus?tab=repositories)
 - 💬 Ask me about Python, AI/ML, Hacking, or Linux internals
-- 📧 Contact me: **abhradeep.roy@example.com**
+- 📧 Contact me: **subhodisha2062@gmail.com**
 
 ---
 
