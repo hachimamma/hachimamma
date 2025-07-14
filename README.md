@@ -44,5 +44,4 @@
 
 ---
 
-> "A genius doesn’t wait for permission. He builds, breaks, rebuilds, and reshapes the world — quietly."  
-> — *Mark my Words.*
+> "I'm not a genius, just a guy trying to master new things."
