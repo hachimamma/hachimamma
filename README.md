@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Jarvis**, my AI assistant project
+- 🔭 I’m currently working on **PasswdManager.**
 - 💡 My active repositories are at: [github.com/multivariablecalculus](https://github.com/multivariablecalculus?tab=repositories)
 - 💬 Ask me about Python, AI/ML, Hacking, or Linux internals
 - 📧 Contact me: **subhodisha2062@gmail.com**
