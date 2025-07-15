@@ -8,7 +8,7 @@
 ---
 
 - I’m currently working on **PasswdManager.**
-- My active repositories are at: [github.com/multivariablecalculus](https://github.com/hachimamma?tab=repositories)
+- My active repositories are at: [github.com/hachimamma](https://github.com/hachimamma?tab=repositories)
 - Ask me about C/C++, Rust, Linux
 - Contact me: **subhodisha2062@gmail.com**
 
