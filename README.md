@@ -16,7 +16,7 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachimamma&layout=compact&theme=tokyonight&cache_seconds=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachimamma&hide=javascript,css&theme=dark&cache_seconds=1800)
 
 ---
 
