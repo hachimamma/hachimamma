@@ -24,7 +24,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hachimamma&show_icons=true&theme=tokyonight&hide=stars,contribs)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hachimamma&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=120)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hachimamma&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=100)
 
 ---
 
