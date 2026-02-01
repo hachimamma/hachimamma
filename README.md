@@ -2,7 +2,7 @@
 <h3 align="center">Systems • Low-Level • Security • Graphics</h3>
 
 <p align="center">
-  Building fast, correct, and minimal software — from metal to pixels.
+  Building fast, correct, and minimal software
 </p>
 
 <p align="center">
