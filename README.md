@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=hachimamma&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/github/followers/hachimamma?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/hachimamma?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/hachimamma?style=for-the-badge" />
 </p>
 
 ---
@@ -36,18 +37,26 @@ https://github.com/hachimamma?tab=repositories
 
 ## Tech Stack
 
-**Languages**
+<details>
+<summary><strong>Languages</strong></summary>
+
 - C / C++
 - Rust
 - Bash
 - Python (tooling and automation)
 
-**Domains**
-- Systems programming
-- Graphics programming (OpenGL)
-- Linux internals
-- Cybersecurity fundamentals
-- Low-level tooling
+</details>
+
+<details>
+<summary><strong>Domains</strong></summary>
+
+- Systems programming  
+- Graphics programming (OpenGL)  
+- Linux internals  
+- Cybersecurity fundamentals  
+- Low-level tooling  
+
+</details>
 
 ---
 
@@ -58,16 +67,33 @@ https://github.com/hachimamma?tab=repositories
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hachimamma&theme=tokyonight" />
 </p>
 
-### Statistics
+<details>
+<summary><strong>Statistics</strong></summary>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hachimamma&theme=tokyonight" />
 </p>
 
-### Language Metrics
+</details>
+
+<details>
+<summary><strong>Language Metrics</strong></summary>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hachimamma&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hachimamma&theme=tokyonight" />
 </p>
+
+</details>
+
+<details>
+<summary><strong>Productivity & Time</strong></summary>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hachimamma&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+</details>
 
 ---
 
