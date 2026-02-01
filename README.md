@@ -62,38 +62,34 @@ https://github.com/hachimamma?tab=repositories
 
 ## GitHub Activity
 
-### Profile Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hachimamma&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hachimamma&theme=tokyonight"
+    style="margin-bottom: 18px;"
+  />
 </p>
 
-<details>
-<summary><strong>Statistics</strong></summary>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hachimamma&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hachimamma&theme=tokyonight"
+    style="margin: 10px 18px;"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hachimamma&theme=tokyonight&utcOffset=5.5"
+    style="margin: 10px 18px;"
+  />
 </p>
 
-</details>
-
-<details>
-<summary><strong>Language Metrics</strong></summary>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hachimamma&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hachimamma&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hachimamma&theme=tokyonight"
+    style="margin: 10px 18px;"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hachimamma&theme=tokyonight"
+    style="margin: 10px 18px;"
+  />
 </p>
-
-</details>
-
-<details>
-<summary><strong>Productivity & Time</strong></summary>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hachimamma&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-</details>
 
 ---
 
