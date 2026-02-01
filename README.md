@@ -15,22 +15,22 @@
 
 ## About Me
 
-- Software Developer focused on **systems, performance, and correctness**
-- Interests span **C/C++, Rust, Linux internals, OpenGL, Cybersecurity**
+- Software Developer focused on systems, performance, and correctness
+- Interests span C/C++, Rust, Linux internals, OpenGL, and cybersecurity
 - Comfortable working close to hardware and deep in abstractions
-- Prefer understanding *why* something works, not just *that* it works
-- Bias towards **minimalism, determinism, and explicit design**
+- Prefer understanding why something works, not just that it works
+- Bias towards minimalism, determinism, and explicit design
 
 ---
 
 ## Current Focus
 
-- **PassLock** — Cryptography, Daemon Management, Secure Design
-- Performance-oriented tooling and low-level experiments  
+- **PassLock** — cryptography, daemon management, secure design
+- Performance-oriented tooling and low-level experiments
 - Refining internal architecture across personal projects
 
 **All active repositories:**  
-👉 https://github.com/hachimamma?tab=repositories
+https://github.com/hachimamma?tab=repositories
 
 ---
 
@@ -40,36 +40,30 @@
 - C / C++
 - Rust
 - Bash
-- Python (tooling & automation)
+- Python (tooling and automation)
 
 **Domains**
-- Systems Programming
-- Graphics Programming (OpenGL)
-- Linux Internals
-- Cybersecurity Fundamentals
-- Low-level Tooling
+- Systems programming
+- Graphics programming (OpenGL)
+- Linux internals
+- Cybersecurity fundamentals
+- Low-level tooling
 
 ---
 
 ## GitHub Activity
 
-### Core Stats (mirror – stable)
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hachimamma&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hachimamma&theme=tokyonight" height="165" />
-</p>
-
-### Language Breakdown
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hachimamma&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
-### Profile Summary (very reliable)
+### Profile Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hachimamma&theme=tokyonight" />
 </p>
 
-### Additional Metrics
+### Statistics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hachimamma&theme=tokyonight" />
+</p>
+
+### Language Metrics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hachimamma&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hachimamma&theme=tokyonight" />
@@ -90,4 +84,4 @@
 
 ---
 
-> *“Skill is built quietly. Results speak later.”*
+> Skill is built quietly. Results speak later.
