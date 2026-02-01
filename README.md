@@ -9,27 +9,28 @@
   <img src="https://komarev.com/ghpvc/?username=hachimamma&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/github/followers/hachimamma?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/hachimamma?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/hachimamma?style=for-the-badge" />
 </p>
 
 ---
 
 ## About Me
 
-- Software Developer focused on systems, performance, and correctness
-- Interests span C/C++, Rust, Linux internals, OpenGL, and cybersecurity
+- Software developer focused on **systems, performance, and correctness**
+- Strong interest in **Rust, C/C++, Linux internals, OpenGL, and security**
 - Comfortable working close to hardware and deep in abstractions
-- Prefer understanding why something works, not just that it works
-- Bias towards minimalism, determinism, and explicit design
+- Prefer understanding *why* something works, not just *that* it works
+- Bias toward **minimalism, determinism, and explicit design**
 
 ---
 
 ## Current Focus
 
-- **PassLock** — cryptography, daemon management, secure design
-- Performance-oriented tooling and low-level experiments
-- Refining internal architecture across personal projects
+- **PassLock** — cryptography, secure storage, daemon-style tooling
+- **OGL-Renders** — OpenGL experiments and rendering pipelines
+- Low-level utilities, security experiments, and performance tooling
 
-**All active repositories:**  
+**All repositories:**  
 https://github.com/hachimamma?tab=repositories
 
 ---
@@ -38,7 +39,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash&theme=dark" />
 </p>
 
 ### Systems & Platforms
@@ -48,46 +49,58 @@ https://github.com/hachimamma?tab=repositories
 
 ### Graphics & Low-Level
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=opengl&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=opengl,cmake&theme=dark" />
 </p>
 
-### Tooling
+### Tooling & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,cmake,neovim,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,neovim,vim&theme=dark" />
 </p>
 
 ---
 
 ## GitHub Activity
 
+<!-- Wide overview -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hachimamma&theme=tokyonight"
-    style="margin-bottom: 18px;"
   />
 </p>
 
+<!-- Collage row 1 -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hachimamma&theme=tokyonight"
-    style="margin: 10px 18px;"
+    style="margin: 12px 18px;"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hachimamma&theme=tokyonight&utcOffset=5.5"
-    style="margin: 10px 18px;"
+    style="margin: 12px 18px;"
   />
 </p>
 
+<!-- Collage row 2 -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hachimamma&theme=tokyonight"
-    style="margin: 10px 18px;"
+    style="margin: 12px 18px;"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hachimamma&theme=tokyonight"
-    style="margin: 10px 18px;"
+    style="margin: 12px 18px;"
   />
 </p>
+
+---
+
+## Featured Work
+
+- **PassLock** — Rust-based password manager (crypto, CLI, vault design)
+- **OGL-Renders** — C++ OpenGL rendering experiments
+- **ESP8266-Wifi-Attacks** — low-level networking & security research
+- **SysMonitor** — cross-platform system monitoring concepts
+- **Discord Bots** — Rust & Python bots (Bytes, Ozi, Fozi)
 
 ---
 
