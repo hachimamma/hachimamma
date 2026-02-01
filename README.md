@@ -50,12 +50,12 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hachimamma&show_icons=true&theme=tokyonight&hide=stars,contribs" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hachimamma&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hachimamma&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachimamma&layout=compact&theme=tokyonight&hide=javascript,css" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hachimamma&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
