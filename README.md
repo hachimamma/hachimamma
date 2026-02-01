@@ -36,26 +36,25 @@ https://github.com/hachimamma?tab=repositories
 
 ## Tech Stack
 
-<details>
-<summary><strong>Languages</strong></summary>
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,python&theme=dark" />
+</p>
 
-- C / C++
-- Rust
-- Bash
-- Python (tooling and automation)
+### Systems & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch&theme=dark" />
+</p>
 
-</details>
+### Graphics & Low-Level
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opengl&theme=dark" />
+</p>
 
-<details>
-<summary><strong>Domains</strong></summary>
-
-- Systems programming  
-- Graphics programming (OpenGL)  
-- Linux internals  
-- Cybersecurity fundamentals  
-- Low-level tooling  
-
-</details>
+### Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,cmake,neovim,vim&theme=dark" />
+</p>
 
 ---
 
