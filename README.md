@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=hachimamma&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/github/followers/hachimamma?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/hachimamma?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/hachimamma?style=for-the-badge" />
 </p>
 
 ---
