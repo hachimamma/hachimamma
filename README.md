@@ -38,7 +38,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash&theme=dark" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Security & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" />
   <img src="https://cdn.simpleicons.org/metasploit/2A2A2A" height="48" />
   <img src="https://cdn.simpleicons.org/gnupg/0093DD" height="48" />
