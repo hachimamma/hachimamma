@@ -38,12 +38,12 @@ https://github.com/hachimamma?tab=repositories
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,cs&theme=dark" />
 </p>
 
 ### Systems & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu&theme=dark" />
 </p>
 
 ### Graphics & Low-Level
@@ -53,12 +53,27 @@ https://github.com/hachimamma?tab=repositories
     height="48"
     style="vertical-align: middle;"
   />
-  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cmake,glsl&theme=dark" />
+</p>
+
+### Security / Networking
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openssl,nginx&theme=dark" />
 </p>
 
 ### Tooling & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,neovim,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,regex&theme=dark" />
+</p>
+
+### Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 </p>
 
 ---
