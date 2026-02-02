@@ -38,7 +38,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,bash&theme=dark" />
 </p>
 
 ---
