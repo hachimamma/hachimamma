@@ -68,10 +68,13 @@ https://github.com/hachimamma?tab=repositories
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" height="48" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" />
+
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" />
+  <img src="https://cdn.simpleicons.org/openssl/721412" height="48" />
 </p>
+
 
 ---
 
