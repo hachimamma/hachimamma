@@ -45,7 +45,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Systems & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,arch,debian,ubuntu&theme=dark" />
 </p>
 
 ---
@@ -54,19 +54,22 @@ https://github.com/hachimamma?tab=repositories
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
 </p>
 
-> GLSL is intentionally omitted — it lacks an official standalone logo and causes rendering issues.
+<p>
+  <sub><i>GLSL is intentionally omitted — it has no official standalone logo.</i></sub>
+</p>
 
 ---
 
 ### Security & Networking
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnupg/gnupg-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" />
 </p>
 
