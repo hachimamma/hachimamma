@@ -48,7 +48,12 @@ https://github.com/hachimamma?tab=repositories
 
 ### Graphics & Low-Level
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=opengl,cmake&theme=dark" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"
+    height="48"
+    style="vertical-align: middle;"
+  />
+  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" />
 </p>
 
 ### Tooling & Workflow
@@ -60,14 +65,12 @@ https://github.com/hachimamma?tab=repositories
 
 ## GitHub Activity
 
-<!-- Wide overview -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hachimamma&theme=tokyonight"
   />
 </p>
 
-<!-- Collage row 1 -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hachimamma&theme=tokyonight"
@@ -79,7 +82,6 @@ https://github.com/hachimamma?tab=repositories
   />
 </p>
 
-<!-- Collage row 2 -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hachimamma&theme=tokyonight"
