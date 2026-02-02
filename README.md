@@ -53,7 +53,7 @@ https://github.com/hachimamma?tab=repositories
     height="48"
     style="vertical-align: middle;"
   />
-  <img src="https://skillicons.dev/icons?i=cmake,glsl&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=glsl&theme=dark" />
 </p>
 
 ### Security & Networking
@@ -83,7 +83,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Tooling & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,cmake,neovim,vim,regex&theme=dark" />
 </p>
 
 ---
