@@ -16,7 +16,7 @@
 ## About Me
 
 - Software developer focused on **systems, performance, and correctness**
-- Strong interest in **Rust, C/C++, Linux internals, OpenGL, and security**
+- Strong interest in **Rust, C/C++, Linux internals, graphics APIs, and security**
 - Comfortable working close to hardware and deep in abstractions
 - Prefer understanding *why* something works, not just *that* it works
 - Bias toward **minimalism, determinism, and explicit design**
@@ -26,8 +26,8 @@
 ## Current Focus
 
 - **PassLock** — cryptography, secure storage, daemon-style tooling
-- **OGL-Renders** — OpenGL experiments and rendering pipelines
-- Low-level utilities, security experiments, and performance tooling
+- **OGL-Renders** — OpenGL & Vulkan rendering experiments
+- Low-level utilities, security tooling, and performance analysis
 
 **All repositories:**  
 https://github.com/hachimamma?tab=repositories
@@ -38,57 +38,59 @@ https://github.com/hachimamma?tab=repositories
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,js&theme=dark" />
 </p>
+
+---
 
 ### Systems & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian&theme=dark" />
 </p>
+
+---
 
 ### Graphics & Low-Level
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"
-    height="48"
-    style="vertical-align: middle;"
-  />
-  <img src="https://skillicons.dev/icons?i=glsl,vulkan&theme=dark" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    height="48"
-    style="vertical-align: middle;"
-  />
+  <img src="https://skillicons.dev/icons?i=opengl,mesa,wayland,x11&theme=dark" />
+  <img src="https://cdn.simpleicons.org/vulkan/AC162C" height="48" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="48" />
+  <img src="https://cdn.simpleicons.org/khronosgroup/CC3333" height="48" />
+  <img src="https://cdn.simpleicons.org/glsl/4F4F4F" height="48" />
 </p>
+
+---
 
 ### Security & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openssl,nginx,docker&theme=dark" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-    height="48"
-    style="vertical-align: middle;"
-  />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp&theme=dark" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" />
+  <img src="https://cdn.simpleicons.org/metasploit/2A2A2A" height="48" />
+  <img src="https://cdn.simpleicons.org/gnupg/0093DD" height="48" />
+  <img src="https://cdn.simpleicons.org/openssl/721412" height="48" />
 </p>
 
-### Databases & Storage
+---
+
+### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" />
 </p>
 
+---
+
 ### AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"
-    height="48"
-    style="vertical-align: middle;"
-  />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" />
+  <img src="https://cdn.simpleicons.org/keras/D00000" height="48" />
 </p>
+
+---
 
 ### Tooling & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,helix,cmake,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,neovim,vim,helix,cmake,clang,gcc&theme=dark" />
 </p>
 
 ---
@@ -128,10 +130,10 @@ https://github.com/hachimamma?tab=repositories
 ## Featured Work
 
 - **PassLock** — Rust-based password manager (crypto, CLI, vault design)
-- **OGL-Renders** — C++ OpenGL rendering experiments
+- **OGL-Renders** — OpenGL & Vulkan rendering experiments
 - **ESP8266-Wifi-Attacks** — low-level networking & security research
-- **SysMonitor** — cross-platform system monitoring concepts
-- **Discord Bots** — Rust & Python bots (Bytes, Ozi, Fozi)
+- **SysMonitor** — system monitoring & performance tooling
+- **Discord Bots** — Rust & Python bots
 
 ---
 
