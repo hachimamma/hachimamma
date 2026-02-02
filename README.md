@@ -56,24 +56,34 @@ https://github.com/hachimamma?tab=repositories
   <img src="https://skillicons.dev/icons?i=cmake,glsl&theme=dark" />
 </p>
 
-### Security / Networking
+### Security & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openssl,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=openssl,nginx,docker&theme=dark" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    height="48"
+    style="vertical-align: middle;"
+  />
+</p>
+
+### Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" />
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"
+    height="48"
+    style="vertical-align: middle;"
+  />
 </p>
 
 ### Tooling & Workflow
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,regex&theme=dark" />
-</p>
-
-### Databases & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
-</p>
-
-### AI / ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 </p>
 
 ---
