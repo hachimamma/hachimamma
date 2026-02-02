@@ -58,7 +58,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Security & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openssl,nginx,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nginx,docker&theme=dark" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     height="48"
