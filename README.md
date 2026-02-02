@@ -53,12 +53,17 @@ https://github.com/hachimamma?tab=repositories
     height="48"
     style="vertical-align: middle;"
   />
-  <img src="https://skillicons.dev/icons?i=glsl&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=glsl,vulkan&theme=dark" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    height="48"
+    style="vertical-align: middle;"
+  />
 </p>
 
 ### Security & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nginx,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=openssl,nginx,docker&theme=dark" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     height="48"
@@ -83,7 +88,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Tooling & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,cmake,neovim,vim,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,helix,cmake,regex&theme=dark" />
 </p>
 
 ---
