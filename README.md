@@ -100,7 +100,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Tooling & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,helix,cmake,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,cmake,regex&theme=dark" />
 </p>
 
 ---
