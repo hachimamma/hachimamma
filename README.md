@@ -45,7 +45,7 @@ https://github.com/hachimamma?tab=repositories
 
 ### Systems & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,arch,debian,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,windows,debian,ubuntu&theme=dark" />
 </p>
 
 ---
