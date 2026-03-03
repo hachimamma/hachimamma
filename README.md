@@ -25,7 +25,7 @@
 
 ## Current Focus
 
-- **PassLock** — cryptography, secure storage, daemon-style tooling
+- **PassLock** — cryptography, secure storage, TUI-CLI
 - **OGL-Renders** — OpenGL & Vulkan rendering experiments
 - Low-level utilities, security tooling, and performance analysis
 
